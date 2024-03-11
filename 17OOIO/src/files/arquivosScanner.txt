@@ -1,0 +1,2 @@
+lendo e escrevendo
+no arquivo sacanner

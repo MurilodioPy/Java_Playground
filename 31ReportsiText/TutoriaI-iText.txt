@@ -1,0 +1,55 @@
+SITE OFICIAL
+https://itextpdf.com/en
+
+SITE OFICIAL > DEVELOPERS > DOWNLOADS
+https://itextpdf.com/en/resources/downloads
+
+iText 7 Core
+https://itextpdf.com/en/products/itext-7/itext-7-core
+
+	iText 7 Core Java on Artifactory
+	iText 7 Core Java on Maven
+	iText 7 Core Java on GitHub
+
+	iText7-Core-7.1.11-only-jars.zip
+	https://github.com/itext/itext7/releases/tag/7.1.11
+	
+	Installing iText 7 for Java
+	https://kb.itextpdf.com/home/it7kb/installation-guidelines/installing-itext-7-for-java
+
+	As mentioned above IText7 is now multiple jars which you can download as required.
+	https://stackoverflow.com/questions/43074751/itext7-jar-not-found
+
+-------------------------------------------------------------------------------------------
+API DOCUMENTATION
+https://itextpdf.com/en/resources/api-documentation/itext-7-java
+
+-------------------------------------------------------------------------------------------
+iText 7 is the latest version of iText's powerful PDF Toolkit for PDF generation, PDF programming, handling & manipulation, such as digital signing and more.
+https://kb.itextpdf.com/home/it7kb
+https://kb.itextpdf.com/home/it7kb/examples
+https://kb.itextpdf.com/home/it7kb/examples
+
+iText 5
+https://kb.itextpdf.com/home/it5kb
+https://kb.itextpdf.com/home/it5kb/examples
+iText in Action Chapter 16: PDF streams
+iText in Action Chapter 15: Page content and structure
+iText in Action Chapter 13: PDFs inside-out
+iText in Action Chapter 14: The imaging model
+iText in Action Chapter 12: Protecting your PDF
+iText in Action Chapter 11: Choosing the right font
+iText in Action: Chapter 10: Brightening up your PDF with color and images
+iText in Action: Chapter 7: Making documents interactive
+iText in Action: Chapter 6: Working with existing PDFs
+iText in Action: Chapter 4: Organizing content in tables
+iText in Action: Chapter 5: Table, cell, and page events
+iText in Action Chapter 3: Adding content at absolute positions
+iText in Action Chapter 2: Using iText's basic building blocks
+iText in Action: Chapter 1: Introducing PDF and iText
+iText in Action: Pojo classes film database
+
+https://www.devmedia.com.br/introducao-ao-itext/29864
+
+
+https://kb.itextpdf.com/home/it5kb/examples/itext-in-action-chapter-4-organizing-content-in-tables
